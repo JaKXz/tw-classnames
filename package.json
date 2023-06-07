@@ -1,0 +1,22 @@
+{
+  "name": "@jakxz/tw-classnames",
+  "module": "index.ts",
+  "version": "1.0.0",
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": ["dist"],
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "type": "module",
+  "scripts": {
+    "build": "tsc"
+  },
+  "peerDependencies": {
+    "typescript": ">=4"
+  },
+  "dependencies": {
+    "clsx": "^1.2.1",
+    "tailwind-merge": "^1.13.0"
+  }
+}
