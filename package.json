@@ -1,12 +1,14 @@
 {
   "name": "@jakxz/tw-classnames",
   "module": "index.ts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "publishConfig": {
     "access": "public"
   },
-  "files": ["dist"],
+  "files": [
+    "dist"
+  ],
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "type": "module",
