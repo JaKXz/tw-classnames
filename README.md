@@ -19,4 +19,4 @@ import howeveryouwannanameit from '@jakxz/tw-classnames';
 
 The PR will be squash merged following the [conventional commits spec](https://www.conventionalcommits.org/en/v1.0.0/#specification).
 
-We use `npx standard version -a` to generate the CHANGELOG and version update according to the commits.
+We use `npx standard-version -a` to generate the CHANGELOG and version update according to the commits.
