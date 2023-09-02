@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.3](https://github.com/JaKXz/tw-classnames/compare/v1.0.2...v1.0.3) (2023-09-02)
+
+
+### Bug Fixes
+
+* **deps:** update tailwind-merge ([7212747](https://github.com/JaKXz/tw-classnames/commit/7212747828518f2cf51cb2651933b58cbe451659))
+
 ### [1.0.2](https://github.com/JaKXz/tw-classnames/compare/v1.0.1...v1.0.2) (2023-07-16)
 
 
