@@ -1,16 +1,23 @@
 # @jakxz/tw-classnames
 
-This is a convenience wrapper around `tailwind-merge` and `clsx`.
+This is a convenience wrapper around [`tailwind-merge`](https://npm.im/tailwind-merge) and [`clsx`](https://npm.im/clsx).
 
 ## Usage
 
 ```ts
-import {classNames} from '@jakxz/tw-classnames';
+import { classNames } from "@jakxz/tw-classnames";
 // OR
-import howeveryouwannanameit from '@jakxz/tw-classnames';
+import howeveryouwannanameit from "@jakxz/tw-classnames";
+```
+
+You can also use [`twMerge`](https://github.com/dcastil/tailwind-merge/blob/main/docs/features.md) directly as needed:
+
+```ts
+import { twMerge } from "@jakxz/tw-classnames";
 ```
 
 ## Contributing & Releasing
+
 1. Fork it ( https://github.com/jakxz/tw-classnames/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`), do not modify the version in `package.json`
