@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.0](https://github.com/JaKXz/tw-classnames/compare/v1.0.3...v1.1.0) (2023-09-15)
+
+
+### Features
+
+* export twMerge function as well ([8d0a5eb](https://github.com/JaKXz/tw-classnames/commit/8d0a5eb998cb1521fcb476fdcee02de7e33988d1))
+
 ### [1.0.3](https://github.com/JaKXz/tw-classnames/compare/v1.0.2...v1.0.3) (2023-09-02)
 
 
