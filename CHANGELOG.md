@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/JaKXz/tw-classnames/compare/v1.1.0...v1.2.0) (2023-11-21)
+
+
+### Features
+
+* add withDefaults method to specify baseline/immutable styles ([808587a](https://github.com/JaKXz/tw-classnames/commit/808587a4597601aaf052c5d437bb9d8fac2609e0))
+
+
+### Bug Fixes
+
+* **deps:** update to twMerge v2 and update typescript ([55bcd52](https://github.com/JaKXz/tw-classnames/commit/55bcd52e97419c38a1136ccc059d0afdf457018e))
+
 ## [1.1.0](https://github.com/JaKXz/tw-classnames/compare/v1.0.3...v1.1.0) (2023-09-15)
 
 
