@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.2.1](https://github.com/jakxz/tw-classnames/compare/v1.2.0...v1.2.1) (2024-02-26)
+
+
+### Bug Fixes
+
+* **deps:** update dependency clsx to v2.1.0 ([#5](https://github.com/jakxz/tw-classnames/issues/5)) ([57d576d](https://github.com/jakxz/tw-classnames/commit/57d576dcd4125cb0d64bcd5113eb2adfa2a80992))
+* **deps:** update dependency tailwind-merge to v2.2.1 ([#6](https://github.com/jakxz/tw-classnames/issues/6)) ([02b0b17](https://github.com/jakxz/tw-classnames/commit/02b0b176ad93ba8eef4682c9267c25d0d92303ff))
+
 ## [1.2.0](https://github.com/JaKXz/tw-classnames/compare/v1.1.0...v1.2.0) (2023-11-21)
 
 
