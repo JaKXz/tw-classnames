@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.2.2](https://github.com/jakxz/tw-classnames/compare/v1.2.1...v1.2.2) (2024-04-19)
+
+
+### Bug Fixes
+
+* **deps:** update dependency tailwind-merge to v2.2.2 ([#8](https://github.com/jakxz/tw-classnames/issues/8)) ([91c4965](https://github.com/jakxz/tw-classnames/commit/91c496593f1e2395af7c19a4b3b730d962e4e7a3))
+* **deps:** update dependency tailwind-merge to v2.3.0 ([#12](https://github.com/jakxz/tw-classnames/issues/12)) ([588581c](https://github.com/jakxz/tw-classnames/commit/588581c204e3d2b785d6d7d24b0dbb70f3f808b6))
+
 ### [1.2.1](https://github.com/jakxz/tw-classnames/compare/v1.2.0...v1.2.1) (2024-02-26)
 
 
