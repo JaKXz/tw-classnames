@@ -10,7 +10,7 @@ importers:
     dependencies:
       clsx:
         specifier: ^2.0.0
-        version: 2.1.0
+        version: 2.1.1
       tailwind-merge:
         specifier: ^2.0.0
         version: 2.3.0
@@ -25,8 +25,8 @@ packages:
     resolution: {integrity: sha512-dkxf7+hn8mFBwKjs9bvBlArzLVxVbS8usaPUDd5p2a9JCL9tB8OaOVN1isD4+Xyk4ns89/xeOmbQvgdK7IIVdA==}
     engines: {node: '>=6.9.0'}
 
-  clsx@2.1.0:
-    resolution: {integrity: sha512-m3iNNWpd9rl3jvvcBnu70ylMdrXt8Vlq4HYadnU5fwcOtvkSQWPmj7amUcDT2qYI7risszBjI5AUIUox9D16pg==}
+  clsx@2.1.1:
+    resolution: {integrity: sha512-eYm0QWBtUrBWZWG0d386OGAw16Z995PiOVo2B7bjWSbHedGl5e0ZWaq65kOGgUSNesEIDkB9ISbTg/JK9dhCZA==}
     engines: {node: '>=6'}
 
   regenerator-runtime@0.14.1:
@@ -46,7 +46,7 @@ snapshots:
     dependencies:
       regenerator-runtime: 0.14.1
 
-  clsx@2.1.0: {}
+  clsx@2.1.1: {}
 
   regenerator-runtime@0.14.1: {}
 
