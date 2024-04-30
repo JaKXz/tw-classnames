@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.2.3](https://github.com/jakxz/tw-classnames/compare/v1.2.2...v1.2.3) (2024-04-30)
+
+
+### Bug Fixes
+
+* **deps:** update dependency clsx to v2.1.1 ([#13](https://github.com/jakxz/tw-classnames/issues/13)) ([c08f6a8](https://github.com/jakxz/tw-classnames/commit/c08f6a8ceaa6c2e2583e25617522c30e8d93ead6))
+* **package:** remove incorrect module entry ([e5f03f0](https://github.com/jakxz/tw-classnames/commit/e5f03f0832c7eb73218fd9a436e74052d392d224))
+
 ### [1.2.2](https://github.com/jakxz/tw-classnames/compare/v1.2.1...v1.2.2) (2024-04-19)
 
 
