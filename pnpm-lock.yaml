@@ -17,7 +17,7 @@ importers:
     devDependencies:
       typescript:
         specifier: ^5.3.2
-        version: 5.5.2
+        version: 5.5.3
 
 packages:
 
@@ -35,8 +35,8 @@ packages:
   tailwind-merge@2.3.0:
     resolution: {integrity: sha512-vkYrLpIP+lgR0tQCG6AP7zZXCTLc1Lnv/CCRT3BqJ9CZ3ui2++GPaGb1x/ILsINIMSYqqvrpqjUFsMNLlW99EA==}
 
-  typescript@5.5.2:
-    resolution: {integrity: sha512-NcRtPEOsPFFWjobJEtfihkLCZCXZt/os3zf8nTxjVH3RvTSxjrCamJpbExGvYOF+tFHc3pA65qpdwPbzjohhew==}
+  typescript@5.5.3:
+    resolution: {integrity: sha512-/hreyEujaB0w76zKo6717l3L0o/qEUtRgdvUBvlkhoWeOVMjMuHNHk0BRBzikzuGDqNmPQbg5ifMEqsHLiIUcQ==}
     engines: {node: '>=14.17'}
     hasBin: true
 
@@ -54,4 +54,4 @@ snapshots:
     dependencies:
       '@babel/runtime': 7.24.4
 
-  typescript@5.5.2: {}
+  typescript@5.5.3: {}
